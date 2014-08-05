@@ -1,0 +1,1 @@
+This guessing game was created as a excercise in learning javascript.  Thanks to Brook Riggio for providing code as a jumping off point for this lesson.  The game itself is a simple one answer game. 
